@@ -26,7 +26,7 @@ export const Navbar = () => {
       <header>
         <Link className="link logo" to={'/'}>
           <img 
-            src="./src/assets/Pokedex.png"
+            src="/src/assets/Pokedex.png"
             alt="Pokedex.logo" 
           />
         </Link>
